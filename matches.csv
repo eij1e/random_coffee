@@ -1,0 +1,25 @@
+User 1,User 2,Similarity,matching_num
+synthetic_user14,synthetic_user23,14.62,1
+synthetic_user18,synthetic_user30,13.33,1
+synthetic_user31,synthetic_user32,12.8,1
+synthetic_user27,synthetic_user46,12.57,1
+synthetic_user4,synthetic_user9,12.47,1
+synthetic_user33,synthetic_user36,12.14,1
+synthetic_user13,synthetic_user22,10.4,1
+synthetic_user10,synthetic_user15,10.2,1
+synthetic_user20,synthetic_user24,9.0,1
+synthetic_user7,synthetic_user11,8.6,1
+synthetic_user2,synthetic_user8,6.2,1
+synthetic_user28,synthetic_user47,6.12,1
+synthetic_user19,synthetic_user34,6.0,1
+synthetic_user16,synthetic_user26,5.27,1
+synthetic_user5,synthetic_user12,5.2,1
+synthetic_user21,synthetic_user35,4.0,1
+synthetic_user42,synthetic_user48,3.8,1
+synthetic_user25,synthetic_user40,3.7,1
+synthetic_user17,synthetic_user29,3.5,1
+synthetic_user3,synthetic_user6,3.0,1
+867319701,733708993,7.9,2
+733708993,1140637373,1.0,3
+867319701,1140637373,0.9,4
+867319701,1140637373,0.9,5
