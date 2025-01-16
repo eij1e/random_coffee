@@ -56,15 +56,9 @@
 ## Установка
 - Склонируйте репозиторий
 - В файле main.py вставьте ключ своего бота в 13-ой строке
-- Установите Docker engine или Docker desktop
-- Создайте билд контейнера
+- Установите Docker engine и docker compose ИЛИ Docker desktop
+- Запустите команду `docker-compose up`
 
-    - Запустите докер.
-    - Откройте директорию проекта через терминал
-    - Запустите билд контейнера через команду `docker build -t <container_name:version> ./`
-- Запустите контейнер
-    - Командой `docker images` узнайте image id созданного образа
-    - `docker run <image id>`
 
 
 #
